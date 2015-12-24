@@ -1,0 +1,15 @@
+{
+   "author" : "Bruce Gray",
+   "authority" : "cpan+BGRAY",
+   "depends" : [],
+   "description" : "Hyper-complex numbers as objects with operators",
+   "name" : "Perl6-Math-Quaternion",
+   "provides" : {
+      "Math::Quaternion" : "lib/Math/Quaternion.pm6"
+   },
+   "support" : {
+      "source" : "git://github.com/Util/Perl6-Math-Quaternion.git"
+   },
+   "version" : "0.000.001",
+   "version_from_original_meta" : "*"
+}
