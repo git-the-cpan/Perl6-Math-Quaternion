@@ -10,6 +10,6 @@
    "support" : {
       "source" : "git://github.com/Util/Perl6-Math-Quaternion.git"
    },
-   "version" : "0.000.001",
+   "version" : "0.000.002_1601301941",
    "version_from_original_meta" : "*"
 }
